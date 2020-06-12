@@ -19,7 +19,7 @@ navbar-links:
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Blogs: 
-    # - Neural Networks: "Basics_of_ML_and_DeepLearning"
+     - Neural Networks: "Basics_of_ML_and_DeepLearning"
      - Digital Signal Processing: "Digital_Signal_Processing"
      - ERC Tech stuff: "ERC_TechThursdays"
   Projects:
