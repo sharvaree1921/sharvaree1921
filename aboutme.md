@@ -4,7 +4,8 @@ title: About me
 subtitle: Want to know me?
 ---
 
-Hey Guys and Girls out there!
+#### Hey Guys and Girls out there!
+
 I am Sharvaree Sinkar,2nd year undergrad student from Electrical(dual) department,studying at IIT Bombay.There are many stuffs that interests me.I like to play Keyboard,paint,read novels,listen songs and watch webseries.I currently started reading 'Secret of Nagas' from Shiva Triology and am binge watching Big Bang Theory web-series xD.
 
 I am a great travel enthusiast! I love to trek and go on a long tours.Want to have a world tour soon!
