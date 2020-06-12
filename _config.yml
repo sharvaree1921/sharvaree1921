@@ -18,10 +18,10 @@ navbar-links:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Blogs:
-     - Neural Networks: "Basics_of_ML_and_DeepLearning"
-     - Digital Signal Processing: "Digital_Signal_Processing"
-     - ERC Tech stuff: "ERC_TechThursdays"
+  Blogs: "_posts"
+    # - Neural Networks: "Basics_of_ML_and_DeepLearning"
+    # - Digital Signal Processing: "Digital_Signal_Processing"
+    # - ERC Tech stuff: "ERC_TechThursdays"
   Projects:
      - SoC: "SoC_2020"
      - SoS: "SoS_2020"
@@ -107,7 +107,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bg.jpg"
+#page-img: "/assets/img/bg.jpg"
 
 # --- Web Statistics Section --- #
 
