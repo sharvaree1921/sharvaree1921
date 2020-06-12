@@ -13,14 +13,14 @@ author: Sharvaree Sinkar
 
 navbar-links:
   About Me: "aboutme"
-  #Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
-  Projects:
-     - SoC: "https://github.com/MananKGarg/SOC_20_Virtual_Keyboard"
-     - SoS: "https://github.com/sharvaree1921/Week-1-progress"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  #Projects:
+   #  - SoC: "https://github.com/MananKGarg/SOC_20_Virtual_Keyboard"
+    # - SoS: "https://github.com/sharvaree1921/Week-1-progress"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -74,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Home.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
