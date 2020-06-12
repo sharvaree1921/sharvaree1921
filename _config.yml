@@ -12,6 +12,7 @@ author: Sharvaree Sinkar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  #Home: ""
   About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -22,8 +23,8 @@ navbar-links:
      - Digital Signal Processing: "https://github.com/sharvaree1921/Digital-Signal-Processing"
      - ERC Tech stuff: "https://github.com/sharvaree1921/ERC-Tech-"
   Projects:
-     - SoC: "https://github.com/MananKGarg/SOC_20_Virtual_Keyboard"
-     - SoS: "https://github.com/sharvaree1921/Week-1-progress"
+     - SoC: "SoC_2020"
+     - SoS: "SoS_2020"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
