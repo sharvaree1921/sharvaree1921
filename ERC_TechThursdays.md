@@ -3,11 +3,11 @@ layout: page
 title: ERC_TechThursdays
 ---
 
-# ERC-Tech Stuff
+### ERC-Tech Stuff
 Electronics and Robotics Club Posts -
 
-## TechThursday:(04/06/2020)-
-### Kilobots-
+### TechThursday:(04/06/2020)-
+#### Kilobots-
 How does a group of animals -- or cells, for that matter -- work together when no one’s in charge? Tiny swarming robots--called Kilobots--work together to tackle tasks in the lab, but what can they teach us about the natural world?
 About Kilobots
 How do you simultaneously control a thousand robots in a swarm? The question may seem like science fiction, but it’s one that has challenged real robotics engineers for decades.
@@ -26,8 +26,8 @@ The same kinds of simple instructions that kilobots use to self-assemble into sh
 
 for more interesting stuff about kilobots,click [here](https://youtu.be/QXNVZJ3KUsA)
 
-## TechThursday:(11/06/2020)
-### LOVOTS-
+### TechThursday:(11/06/2020)
+#### LOVOTS-
 LOVOT : A Combination of Love+Robot!
 Want to be loved by someone? Want to enhance your mood?
 Here comes your companion named 'Lovot', an excellent example of Emotional Robotics!
