@@ -18,10 +18,10 @@ navbar-links:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
-  Blogs: "_posts"
+  Blogs: 
     # - Neural Networks: "Basics_of_ML_and_DeepLearning"
-    # - Digital Signal Processing: "Digital_Signal_Processing"
-    # - ERC Tech stuff: "ERC_TechThursdays"
+     - Digital Signal Processing: "Digital_Signal_Processing"
+     - ERC Tech stuff: "ERC_TechThursdays"
   Projects:
      - SoC: "SoC_2020"
      - SoS: "SoS_2020"
