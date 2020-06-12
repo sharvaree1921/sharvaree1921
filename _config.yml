@@ -12,7 +12,7 @@ author: Sharvaree Sinkar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Home: ""
+  Home: "Home"
   About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
