@@ -3,13 +3,13 @@ layout: page
 title: Digital_Signal_Processing
 ---
 
-# Digital-Signal-Processing
+### Digital-Signal-Processing
  Coursera -DSP1
 
-## Introduction-
+#### Introduction-
 There has always been two models infront of us to study Digital Signal Processing.One in which we describe things in the form of functions and calculus and the other via sets of numerical measurement.DsP has its achievment in the latter approach.However,Sampling Theorem provides the bridge between them.
 
-## What is Digital Signal Processing?
+#### What is Digital Signal Processing?
 **Signal**-Signal is just the description of the evolution of physical phenomena.It is the means to convey the information of a particular event or phenomena.
 **Processing**-Processing is comprised of Two parts-_analysis_ and _synthesis_.Analysis means understanding the information carried by the signal and Synthesis means creating a signal to contain given information.
 
@@ -34,7 +34,7 @@ Suppose,we want to transmit analog signal from America to India(a way long),we n
 Now,consider the same case,just that we are transmiting Digital signal instead of analog.Digital signal is composed of samples whose values belong to some set of finite accountable values i.e. integers.Now,transmitting set of integers means that we uncode the integers in binary format and thus transmitting basically the sequence of 0's and 1's.Suppose we assign +5V as '1' and -5V as '0'.And we will have a signal which will also layout these two levels as digits are transmitted.What happens on the channel is the same as before.We will have an attenuation, we will have the addition of noise, and we will have an amplifier at each repeater then will try and undo the attenuation.But on top of it all we will have what's called a threshold operator then we'll try to reconstitute the original signal as best as possible. 
 So,till addition of noise,it is same as before.Let's say that in the threshold operator,if the signal value is above zero, we just output 5 volts and vice versa.If it's below zero, we will output minus 5 volts.So the thresholding operator will reconstruct a signal like so. Hence,we can see that,the original signal is retreived,and not a noise corrupted copy.
 
-## Discrete Time Signal-
+#### Discrete Time Signal-
 Discrete time signal can be referred as a sequence of complex numbers.
 1. One Dimension(for now)
 2. Notation : x[n]
@@ -76,10 +76,10 @@ Another bridge between finite and infinite lengths.
 
 We also have definition of **energy**.It is sum of all elements in the sequence of the square magnitudes of elements.Many sequences have infinite amount of energy,like unit step function.f you do the sum, you will see that E to the x goes to infinity. So to describe the energetic properties of the sequences, we use the concept of power. The power is the rate of production of energy for a sequence, and it is defined as the limit for capital N that goes to infinity of the local energy computed over a window of size 2N + 1 divided by the size of the window. 
 
-### How your PC plays discrete time sounds?
+##### How your PC plays discrete time sounds?
 Do check it out [here](https://www.coursera.org/learn/dsp1/lecture/ORbNE/1-1-3-a-how-your-pc-plays-discrete-time-sounds)
 
-## The Karplus-Strong Algorithm-
+#### The Karplus-Strong Algorithm-
 First we will deal with some building blocks which are necessary to build any complex circuit in Digital Electronics.Some of them are as follows-
 1-**Adder**-x[n]+y[n]
 2-**Multiplier**-x[n] * p=px[n]
