@@ -3,8 +3,8 @@ layout: page
 title: Basics_of_ML_and_DeepLearning
 ---
 
-## Fundamentals-of-ML-and-Deep-Learning
-### Studied from DeepLizard Youtube channel
+### Fundamentals-of-ML-and-Deep-Learning
+#### Studied from DeepLizard Youtube channel
 
 To understand Deep Learning,first we have to understand what machine learning is.So,in machine learning we train our model by giving some training datasets so that the model can learn from it and whenever some new testdata is tested ,it can give the correct results.
 
