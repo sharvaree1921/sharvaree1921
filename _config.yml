@@ -13,7 +13,7 @@ author: Sharvaree Sinkar
 
 navbar-links:
   Home: "Home"
-  About Me: "aboutme"
+  #About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -25,6 +25,7 @@ navbar-links:
   Projects:
      - SoC: "SoC_2020"
      - SoS: "SoS_2020"
+  About Me: "aboutme"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -106,7 +107,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bg.jpg"
 
 # --- Web Statistics Section --- #
 
