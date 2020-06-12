@@ -19,9 +19,9 @@ navbar-links:
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Blogs:
-     - Neural Networks: "https://github.com/sharvaree1921/Fundamentals-of-ML-and-Deep-Learning"
-     - Digital Signal Processing: "https://github.com/sharvaree1921/Digital-Signal-Processing"
-     - ERC Tech stuff: "https://github.com/sharvaree1921/ERC-Tech-"
+     - Neural Networks: "Basics_of_ML_and_DeepLearning"
+     - Digital Signal Processing: "Digital_Signal_Processing"
+     - ERC Tech stuff: "ERC_TechThursdays"
   Projects:
      - SoC: "SoC_2020"
      - SoS: "SoS_2020"
