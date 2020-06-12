@@ -1,4 +1,3 @@
-![Nature](https://github.com/sharvaree1921/gettingstarted/blob/master/astab2.jpeg)
 
 ### Hey Guys and Girls!
 You are now at my place!And so the Adventure begin.Here,you can view all the interesting cool Technical and Non-Technical stuff
