@@ -18,8 +18,9 @@ navbar-links:
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
   Projects:
-     -SoC-"https://github.com/MananKGarg/SOC_20_Virtual_Keyboard"
-     -SoS-"https://github.com/sharvaree1921/Week-1-progress"
+     - SoC: "https://github.com/MananKGarg/SOC_20_Virtual_Keyboard"
+     - SoS: "https://github.com/sharvaree1921/Week-1-progress"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
